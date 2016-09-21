@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="by.bsuir.fksis.poit.451002.udot.vt.lab1.task9:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/by_bsuir_fksis_poit_451002_udot_vt_lab1_task9_jar</output-path>
+    <root id="archive" name="by.bsuir.fksis.poit.451002.udot.vt.lab1.task9.jar">
+      <element id="module-output" name="by.bsuir.fksis.poit.451002.udot.vt.lab1.task9" />
+    </root>
+  </artifact>
+</component>
